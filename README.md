@@ -1,6 +1,8 @@
 # Churn Prediction Model
 
-Project Aims
+This is my customer churn prediction project for a 
+
+### Project Aims
 
 Create a classification model to achieve the following objectives:
 <ul>
@@ -11,12 +13,19 @@ Create a classification model to achieve the following objectives:
   <li>Which sign-up factors should we incentivise?</li>
 </ul>
 
-Notebook Contents
+### Notebook Contents
 <ul>
   <li>Import the Data</li>
   <li>Data Cleaning</li>
-  <li> Exploratory Data Analysis</li>
+  <li>Exploratory Data Analysis</li>
   <li>Feature Engineering</li>
   <li>Model Development and Evaluation</li>
   <li>Churn Predictions</li>
+</ul>
+
+### Technologies Used:
+<ul>
+  <li>Programming Langueges: Python</li>
+  <li>Libraries: Pandas, NumPy, Matplotlib, Seaborn, StatsModels/li>
+  <li>Tools: JupyterLabs</li>
 </ul>
