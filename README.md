@@ -2,7 +2,7 @@
 
 This is my customer churn prediction project using customer data from a telecommunications company. 
 
-### Project Aims
+### Project Aims:
 
 Create a classification model to achieve the following objectives:
 <ul>
@@ -13,7 +13,7 @@ Create a classification model to achieve the following objectives:
   <li>Which sign-up factors should we incentivise?</li>
 </ul>
 
-### Notebook Contents
+### Notebook Contents:
 <ul>
   <li>Import the Data</li>
   <li>Data Cleaning</li>
