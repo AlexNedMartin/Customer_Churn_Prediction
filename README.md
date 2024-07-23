@@ -10,3 +10,13 @@ Create a classification model to achieve the following objectives:
   <li>Determine which factors most influence churning.</li>
   <li>Which sign-up factors should we incentivise?</li>
 </ul>
+
+Notebook Contents
+<ul>
+  <li>Import the Data</li>
+  <li>Data Cleaning</li>
+  <li> Exploratory Data Analysis</li>
+  <li>Feature Engineering</li>
+  <li>Model Development and Evaluation</li>
+  <li>Churn Predictions</li>
+</ul>
