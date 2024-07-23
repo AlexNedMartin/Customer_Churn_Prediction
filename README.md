@@ -1,6 +1,6 @@
 # Churn Prediction Model
 
-This is my customer churn prediction project for a 
+This is my customer churn prediction project using customer data from a telecommunications company. 
 
 ### Project Aims
 
